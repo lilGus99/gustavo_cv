@@ -1,0 +1,36 @@
+body {
+  background-color: #fcf8ec;
+}
+
+h1 {
+  color: #456268;
+  font-weight: bolder;
+  font-family: inherit;
+  font-variant: small-caps;
+}
+
+h2 {
+  color: #79a3b1;
+  font-weight: bolder;
+  font-family: inherit;
+}
+
+h3{
+  color: #79a3b1;
+  font-weight: bolder;
+  font-family: inherit;
+}
+
+hr {
+  /* background-color: white; */
+  color: gray;
+  border: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+}
+
+p, ul, table {
+  color: #545454;
+  font-family: inherit;
+}
